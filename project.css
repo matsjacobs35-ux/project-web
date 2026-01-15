@@ -1,0 +1,53 @@
+body{
+    font-style: normal;
+    border-radius: 10px;
+    background-color: black;
+}
+.head{
+    display: flex;
+    background-color: black;
+    padding: 15px;
+   
+}
+.Stranger_Logo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    padding: 20px;
+}
+.nav{
+    display: flex;
+    font-size: 20pt;
+    flex-direction: row;
+    background-color: black;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav a{
+    text-decoration: none;
+    color: Red;
+}
+nav a:hover{
+    background-color: white;
+    padding: 5px;
+    border-radius: 20px;
+}
+main{
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    width: 100%;
+    color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#Netflix{
+    color: red;
+}
