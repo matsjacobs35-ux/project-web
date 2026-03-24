@@ -24,7 +24,7 @@ img {
     display: block;
 }
 
-/* Container */
+
 .container {
     max-width: 1280px;
     margin: 0 auto;
@@ -37,7 +37,7 @@ img {
     padding: 0 1rem;
 }
 
-/* Navigation */
+
 .navbar {
     background-color: #7f1d1d;
     border-bottom: 4px solid #991b1b;
@@ -89,7 +89,7 @@ img {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
 }
 
-/* Hero Section */
+
 .hero {
     position: relative;
     height: 100vh;
@@ -151,7 +151,7 @@ img {
     max-width: 48rem;
 }
 
-/* Buttons */
+
 .btn {
     display: inline-block;
     padding: 1rem 3rem;
@@ -231,7 +231,7 @@ img {
     box-shadow: 0 20px 25px rgba(0, 0, 0, 0.5);
 }
 
-/* Features Section */
+
 .features-section {
     background-color: #111827;
     padding: 5rem 0;
@@ -280,7 +280,7 @@ img {
     color: #9ca3af;
 }
 
-/* CTA Section */
+
 .cta-section {
     background-color: #7f1d1d;
     padding: 4rem 0;
@@ -303,7 +303,7 @@ img {
     margin-bottom: 2rem;
 }
 
-/* Characters Page */
+
 .characters-page {
     min-height: 100vh;
     background: linear-gradient(to bottom, #000, #111827);
@@ -449,7 +449,7 @@ img {
     color: #f87171;
 }
 
-/* Character Detail Page */
+
 .character-detail-page {
     min-height: 100vh;
     background: linear-gradient(to bottom, #000, #111827);
@@ -585,7 +585,7 @@ img {
     margin-bottom: 1.5rem;
 }
 
-/* Other Characters Section */
+
 .other-characters {
     margin-top: 3rem;
 }
@@ -668,7 +668,7 @@ img {
     text-shadow: 1px 1px 2px rgba(0,0,0,0.9);
 }
 
-/* 404 Error Page */
+
 .error-page {
     min-height: 100vh;
     background-color: #000;
@@ -708,7 +708,7 @@ img {
     margin-right: auto;
 }
 
-/* Footer */
+
 .footer {
     background-color: #111827;
     border-top: 2px solid #7f1d1d;
